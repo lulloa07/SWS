@@ -1,0 +1,12 @@
+{
+  "name": "Spelling with Sunny",
+  "short_name": "Spelling w/ Sunny",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0F2A5C",
+  "icons": [
+    { "src": "/Images/sunnynewlogo-web.png", "sizes": "640x421", "type": "image/png" },
+    { "src": "/favicon.png", "sizes": "66x50", "type": "image/png" }
+  ]
+}
